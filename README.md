@@ -2,7 +2,7 @@
 
 ![Vista previa del diseño de la página de inicio de Huddle con una única sección introductoria](https://firebasestorage.googleapis.com/v0/b/huddle-454ef.appspot.com/o/desktop-preview.jpg?alt=media&token=fc1facf7-5c6a-4ef9-b6b7-aaaa6f13341b)
 
-Aqui les presento la realización del reto de la semana 1 del #PlatziWebChalenge, aqui abajo se encuentran cuales eran las instrucciones y condiciones del reto.
+Aquí les presento la realización del reto de la semana 1 del #PlatziWebChalenge, aquí abajo se encuentran cuáles eran las instrucciones y condiciones del reto.
 
 ## Bienvenida/o 👋
 
